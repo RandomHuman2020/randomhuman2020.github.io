@@ -1,3 +1,5 @@
-This is a website. It's not my actual website, but it *is* a website.
+A fairly okay website.
 
-go to https://random.diamondbyte.org if you want my real website.
+Not as good as my real website though
+
+https://random.diamondbyte.org
